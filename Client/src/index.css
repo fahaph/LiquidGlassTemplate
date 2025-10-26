@@ -1,0 +1,15 @@
+body {
+  background: #eeaeca;
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgb(99, 156, 223) 100%
+  );
+
+  /* background: #45001e;
+  background: radial-gradient(
+    circle,
+    rgba(69, 0, 30, 1) 0%,
+    rgba(0, 57, 122, 1) 100%
+  ); */
+}
